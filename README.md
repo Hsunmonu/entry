@@ -6,7 +6,7 @@ Entry listens to your phone calls in real-time, transcribes them, generates summ
 
 ## Download
 
-**Windows:** [Download Entry Setup (v1.3.0)](https://github.com/Hsunmonu/entry/releases/latest/download/Entry-Setup-1.3.0.exe)
+**Windows:** [Download Entry Setup (v1.5.0)](https://github.com/Hsunmonu/entry/releases/latest/download/Entry-Setup-1.5.0.exe)
 
 ## Features
 
